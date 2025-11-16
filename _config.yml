@@ -1,0 +1,5 @@
+deploy:
+  type: git
+  repo: https://github.com/databrb-com/databrb.com
+  branch: [branch]
+  message: [message]
